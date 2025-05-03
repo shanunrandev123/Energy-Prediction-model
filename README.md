@@ -6,7 +6,6 @@ The goal of this project is to analyze energy consumption and production pattern
 
 Intensive Analysis was performed using Dash and Plotly
 
-Deployed GCP link - https://dashapp-pwuctfcgrq-ue.a.run.app/
 
 
 ![image](https://github.com/shanunrandev123/Enefit-/assets/49170258/05f05a04-bbc7-444e-ba8d-315a0193cb06)
