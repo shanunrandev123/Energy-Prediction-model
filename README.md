@@ -4,6 +4,8 @@ Energy Prosumers are indivisuals, Businesses or organizations that both consume 
 The energy imbalance problem indicates that there exists imbalance between production and consumption of energy. That is the generated electricity mismatches the demanding side(for example unexpected energy consumption behavior)
 The goal of this project is to analyze energy consumption and production patterns of prosumers given the auxillary features like electricity, gas prices, installed solar panel capacity. This can be formulated as a Time series regression problem
 
+Run Tabs.py to access the dashboard
+
 Intensive Analysis was performed using Dash and Plotly
 
 
